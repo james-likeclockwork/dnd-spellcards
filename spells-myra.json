@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Prestidigitation",
+    "level": "Cantrip",
+    "school": "Transmutation",
+    "casting_time": "Action",
+    "range": "10 feet",
+    "components": "V, S",
+    "duration": "1 hour",
+    "description": "You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.\n\n**Sensory Effect**: You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.\n\n**Fire Play**: You instantaneously light or snuff out a candle, a torch, or a small campfire.\n\n**Clean or Soil**: You instantaneously clean or soil an object no larger than 1 cubic foot.\n\n**Minor Sensation**: You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.\n\n**Magic Mark**: You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.\n\n**Minor Creation**: You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth."
+  },
+  {
+    "name": "Mage Hand",
+    "level": "Cantrip",
+    "school": "Conjuration",
+    "casting_time": "Action",
+    "range": "30 feet",
+    "components": "V, S",
+    "duration": "1 minute",
+    "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.\n\nWhen you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.\n\nAs a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.\n\nThe hand can't attack, activate magic items, or carry more than 10 pounds."
+  },
+  {
+    "name": "Blade Ward",
+    "level": "Cantrip",
+    "school": "Abjuration",
+    "casting_time": "Action",
+    "range": "Self",
+    "components": "V, S",
+    "duration": "Concentration, up to 1 minute",
+    "description": "Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll."
+  },
+  {
+    "name": "Detect Magic",
+    "level": "1",
+    "school": "Divination",
+    "casting_time": "Action or Ritual",
+    "range": "Self (30-foot radius)",
+    "components": "V, S",
+    "duration": "Concentration, up to 10 minutes",
+    "description": "For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.\n\nThe spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead."
+  },
+  {
+    "name": "Witch Bolt",
+    "level": "1",
+    "school": "Evocation",
+    "casting_time": "Action",
+    "range": "60 feet",
+    "components": "V, S, M (a twig struck by lightning)",
+    "duration": "Concentration, up to 1 minute",
+    "description": "A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.\n\nOn each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.\n\nThe spell ends if the target is ever outside the spell's range or if it has Total Cover from you.\n\nUsing a Higher-Level Spell Slot. The initial damage increases by 1d12 for each spell slot level above 1."
+  }
+]

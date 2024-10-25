@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Druidcraft",
+    "level": "Cantrip",
+    "school": "Transmutation",
+    "casting_time": "1 action",
+    "range": "30 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "description": "Whispering to the spirits of nature, you create one of the following effects within range:\n\n1. **Weather Sensor**: You create a Tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.\n2. **Bloom**: You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.\n3. **Sensory Effect**: You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.\n4. **Fire Play**: You light or snuff out a candle, a torch, or a campfire."
+  },
+  {
+    "name": "Guidance",
+    "level": "Cantrip",
+    "school": "Divination",
+    "casting_time": "1 action",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill."
+  },
+  {
+    "name": "Spare the Dying",
+    "level": "Cantrip",
+    "school": "Necromancy",
+    "casting_time": "1 action",
+    "range": "15 feet",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "description": "Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.\n\n**Cantrip Upgrade**: The range doubles when you reach levels 5 (30 feet), 11 (60 feet), and 17 (120 feet)."
+  },
+  {
+    "name": "Thaumaturgy",
+    "level": "Cantrip",
+    "school": "Transmutation",
+    "casting_time": "1 action",
+    "range": "30 feet",
+    "components": "V",
+    "duration": "1 minute",
+    "description": "You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.\n\n1. **Altered Eyes**: You alter the appearance of your eyes for 1 minute.\n2. **Booming Voice**: Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma (Intimidation) checks.\n3. **Fire Play**: You cause flames to flicker, brighten, dim, or change color for 1 minute.\n4. **Invisible Hand**: You instantaneously cause an unlocked door or window to fly open or slam shut.\n5. **Phantom Sound**: You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.\n6. **Tremors**: You cause harmless tremors in the ground for 1 minute."
+  },
+  {
+    "name": "Hunter's Mark",
+    "level": "1",
+    "school": "Divination",
+    "casting_time": "Bonus action",
+    "range": "90 feet",
+    "components": "V",
+    "duration": "Concentration, up to 1 hour",
+    "description": "You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.\n\nIf the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.\n\n**Using a Higher-Level Spell Slot**: Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours)."
+  },
+  {
+    "name": "Healing Word",
+    "level": "1",
+    "school": "Abjuration",
+    "casting_time": "Bonus action",
+    "range": "60 feet",
+    "components": "V",
+    "duration": "Instantaneous",
+    "description": "A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.\n\n**Using a Higher-Level Spell Slot**: The healing increases by 2d4 for each spell slot level above 1."
+  },
+  {
+    "name": "Goodberry",
+    "level": "1",
+    "school": "Conjuration",
+    "casting_time": "Action",
+    "range": "Touch",
+    "components": "V, S, M (a sprig of mistletoe)",
+    "duration": "24 hours",
+    "description": "Ten berries appear in your hand and are infused with magic for the duration. A creature can take a Bonus Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.\n\nUneaten berries disappear when the spell ends."
+  },
+  {
+    "name": "Speak with Animals",
+    "level": "1",
+    "school": "Divination",
+    "casting_time": "Action or Ritual",
+    "range": "Self",
+    "components": "V, S",
+    "duration": "10 minutes",
+    "description": "For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.\n\nMost Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day."
+  },
+  {
+    "name": "Cure Wounds",
+    "level": "1",
+    "school": "Abjuration",
+    "casting_time": "Action",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "description": "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.\n\n**Using a Higher-Level Spell Slot**: The healing increases by 2d8 for each spell slot level above 1."
+  },
+  {
+    "name": "Absorb Elements",
+    "level": "1",
+    "school": "Abjuration",
+    "casting_time": "Reaction",
+    "range": "Self",
+    "components": "S",
+    "duration": "1 round",
+    "description": "The spell captures some of the incoming energy when you take when you take acid, cold, fire, lightning, or thunder damage, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.\n\n**At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st."
+  },
+  {
+    "name": "Longstrider",
+    "level": "1",
+    "school": "Transmutation",
+    "casting_time": "Action",
+    "range": "Touch",
+    "components": "V, S, M (a pinch of dirt)",
+    "duration": "1 hour",
+    "description": "You touch a creature. The target's Speed increases by 10 feet until the spell ends.\n\n**Using a Higher-Level Spell Slot**: You can target one additional creature for each spell slot level above 1."
+  }
+]

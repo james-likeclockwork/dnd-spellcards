@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Divine Smite",
+    "level": "Level 1",
+    "school": "Evocation",
+    "casting_time": "Bonus action, on a hit",
+    "range": "Self",
+    "components": "V",
+    "duration": "Instantaneous",
+    "description": "The target takes an extra 2d8 radiant damage from the attack. The damage increases by 1d8 if the target is a fiend or an undead.\n\n**Using a Higher-Level Spell Slot**: The damage increases by 1d8 for each spell slot level above 1."
+  },
+  {
+    "name": "Guiding Bolt",
+    "level": "Level 1",
+    "school": "Evocation",
+    "casting_time": "Action",
+    "range": "120 feet",
+    "components": "V, S",
+    "duration": "1 round",
+    "description": "You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 radiant damage, and the next attack roll made against it before the end of your next turn has advantage.\n\n**Using a Higher-Level Spell Slot**: The damage increases by 1d6 for each spell slot level above 1."
+  },
+  {
+    "name": "Heroism",
+    "level": "Level 1",
+    "school": "Enchantment",
+    "casting_time": "Action",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Concentration, up to 1 minute",
+    "description": "A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns.\n\n**Using a Higher-Level Spell Slot**: You can target one additional creature for each spell slot level above 1."
+  },
+  {
+    "name": "Compelled Duel",
+    "level": "Level 1",
+    "school": "Enchantment",
+    "casting_time": "Bonus action",
+    "range": "30 feet",
+    "components": "V",
+    "duration": "Concentration, up to 1 minute",
+    "description": "You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 30 feet away from you.\n\nThe spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 30 feet away from the target."
+  },
+  {
+    "name": "Wrathful Smite",
+    "level": "Level 1",
+    "school": "Necromancy",
+    "casting_time": "Bonus action, on a hit",
+    "range": "Self",
+    "components": "V",
+    "duration": "1 minute",
+    "description": "The target takes an extra 1d6 necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the Frightened condition until the spell ends. At the end of each of its turns, the frightened target repeats the save, ending the spell on itself on a success.\n\nUsing a Higher-Level Spell Slot: The damage increases by 1d6 for each spell slot level above 1."
+  },
+  {
+    "name": "Cure Wounds",
+    "level": "Level 1",
+    "school": "Abjuration",
+    "casting_time": "Action",
+    "range": "Touch",
+    "components": "V, S",
+    "duration": "Instantaneous",
+    "description": "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.\n\nUsing a Higher-Level Spell Slot: The healing increases by 2d8 for each spell slot level above 1."
+  },
+  {
+    "name": "Command",
+    "level": "Level 1",
+    "school": "Enchantment",
+    "casting_time": "Action",
+    "range": "60 feet",
+    "components": "V",
+    "duration": "Instantaneous",
+    "description": "You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:\n\n**Approach**: The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.\n\n**Drop**: The target drops whatever it is holding and then ends its turn.\n\n**Flee**: The target spends its turn moving away from you by the fastest available means.\n\n**Grovel**: The target has the Prone condition and then ends its turn.\n\n**Halt**: On its turn, the target doesn't move and takes no action or Bonus Action.\n\nUsing a Higher-Level Spell Slot: You can affect one additional creature for each spell slot level above 1."
+}
+
+]
